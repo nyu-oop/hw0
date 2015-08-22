@@ -6,3 +6,4 @@ You will not be able to complete any assignments until I've added you to the Git
 * Email me your Github username to shepherd@cs.nyu.edu from your NYU email account with the subject OOP Github Account. The only thing in the body should be the username.
 * You will get an email from Github with an invitation to join the nyu-oop organization. Follow the instructions to accept the invitation.
     
+Once you have accepted in the invitation you will be able to see the other repositories here, including hw1.
